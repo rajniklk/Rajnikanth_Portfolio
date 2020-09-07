@@ -6,6 +6,7 @@ This data set is created only for the learning purpose of the customer segmentat
 
 ![download](https://user-images.githubusercontent.com/35190179/92410882-42068000-f163-11ea-9ed1-1c7c938fcd21.png)
 
+
 ## [Project 2: Sentiment Analysis](https://github.com/rajniklk/Sentiment-Analysis-Project)
 
 ![1_dwiWzakT0mtlVUS45m2XQA](https://user-images.githubusercontent.com/35190179/92412066-0b7f3400-f168-11ea-8e29-8262d79a3931.png)
