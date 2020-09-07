@@ -1,4 +1,3 @@
-# Rajnikanth_Portfolio
 
 ## [Project 1: Mall Customers Cluster Analysis](https://github.com/rajniklk/Mall-Customers-Cluster-Analysis)
 
