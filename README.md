@@ -5,7 +5,7 @@
 * Malls or shopping complexes are often indulged in the race to increase their customers and hence making huge profits. To achieve this task machine learning is being applied by many stores already.
 * It is amazing to realize the fact that how machine learning can aid in such ambitions. The shopping complexes make use of their customers’ data and develop ML models to target the right ones. This not only increases sales but also makes the complexes efficient.
 
-## [Project 2: Churn prediction Project](https://github.com/rajniklk/Churn-prediction-Project)
+## [Project 2: Bank Customer Churn prediction Project](https://github.com/rajniklk/Churn-prediction-Project)
 
    ![1_Xap6OxaZvD7C7eMQKkaHYQ](https://user-images.githubusercontent.com/35190179/92439836-2cc43c80-f1c9-11ea-8a49-3c73ac130255.jpeg)
 * Customer Churn occurs when subscribers or customers stop doing business with a company or service. A business typically treats a customer as churned once a specific amount of time has passed since the customers last interaction with the business or service.
@@ -17,7 +17,7 @@
 * In industries, understanding the demands of wine safety testing can be a complex task for the laboratory with numerous analytes and residues to monitor.
 * But, our application’s prediction, provide ideal solutions for the analysis of wine, which will make this whole process efficient and cheaper with less human interaction
 
-## [Project 4: Sentiment Analysis](https://github.com/rajniklk/Sentiment-Analysis-Project)
+## [Project 4: Sentiment Analysis on Movie Reveiw](https://github.com/rajniklk/Sentiment-Analysis-Project)
 
    ![1_dwiWzakT0mtlVUS45m2XQA](https://user-images.githubusercontent.com/35190179/92412066-0b7f3400-f168-11ea-8e29-8262d79a3931.png)
 * So, what exactly is sentiment? Sentiment relates to the meaning of a word or sequence of words and is usually associated with an opinion or emotion. And analysis? Well, this is the process of looking at data and making inferences; in this case, using machine learning to learn and predict whether a movie review is positive or negative.
